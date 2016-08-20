@@ -1,4 +1,4 @@
-package pianosheetmusictutor.smtutor.com.sheetmusictutor;
+package com.musictutor.pianotutor.sheetmusictutor;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
